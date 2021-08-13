@@ -4,9 +4,19 @@ html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 .red {
-    color: #e35e6b;
+    color: #d31528;
 }
 
 .v-middle {
     vertical-align: middle;
+}
+
+.msg-success {
+    background-color: #28a745;
+    color: #FFF;
+}
+
+.msg-error {
+    background-color: #d31528;
+    color: #FFF;
 }

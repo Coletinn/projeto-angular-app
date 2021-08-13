@@ -19,6 +19,11 @@
       "id": 4,
       "name": "MacBook Pro",
       "price": "9999.99"
+    },
+    {
+      "id": 5,
+      "name": "Computador Dell",
+      "price": "3599.99"
     }
   ]
 }
